@@ -1,4 +1,14 @@
-# Laravel Magika
+<p align="center">
+  <img src="art/logo.svg" alt="Laravel Magika" width="480">
+</p>
+
+<p align="center">
+  <a href="https://packagist.org/packages/yousefkadah/laravel-magika"><img src="https://img.shields.io/packagist/v/yousefkadah/laravel-magika.svg?style=flat-square" alt="Latest Version"></a>
+  <a href="https://packagist.org/packages/yousefkadah/laravel-magika"><img src="https://img.shields.io/packagist/dt/yousefkadah/laravel-magika.svg?style=flat-square" alt="Total Downloads"></a>
+  <a href="https://github.com/yousefkadah/laravel-magika/blob/main/LICENSE"><img src="https://img.shields.io/packagist/l/yousefkadah/laravel-magika.svg?style=flat-square" alt="License"></a>
+</p>
+
+---
 
 AI-powered file type validation for Laravel using [Google's Magika](https://github.com/google/magika) — a deep learning model (~1 MB) that achieves ~99% accuracy across 200+ content types.
 
